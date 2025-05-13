@@ -1,5 +1,5 @@
 # 🚚 Porter Delivery Performance Dashboard (Power BI Project)
-![Dashboard Overview](Screenshot 2025-05-10 120827.jpg)
+![Dashboard Overview](https://github.com/Vikant07/Porter-Delivery-Performance-Dashboard/blob/ad3f29b4c7150a9042330493aec0a39e61411b19/Screenshot%202025-05-10%20120827.jpg)
 
 This Power BI dashboard analyzes delivery patterns for **Porter**, a rising food delivery startup. The aim was to improve customer satisfaction by identifying root causes behind delayed deliveries across markets.
 
